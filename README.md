@@ -11,8 +11,6 @@
     <li><a href="#setup">Setup</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#prompts">Prompts</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
 </ul>
 
 <h2 id="introduction">Introduction</h2>
