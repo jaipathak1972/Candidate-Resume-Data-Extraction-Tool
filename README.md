@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ce0b11f6-77cc-407f-b443-28688492ecc3)
+![image](https://github.com/user-attachments/assets/52eb4702-fe00-4060-8cbe-7bfbaf515fb4)
 
 <h1>ATS Resume Expert</h1>
 
